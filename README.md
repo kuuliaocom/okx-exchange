@@ -1,8 +1,14 @@
 # OKX Exchange Demo Builds | Vue 3.5 + Flutter Android + H5
 
+[![Latest Release](https://img.shields.io/github/v/release/kuuliaocom/okx-exchange?display_name=tag&sort=semver)](https://github.com/kuuliaocom/okx-exchange/releases/latest)
+[![Release Downloads](https://img.shields.io/github/downloads/kuuliaocom/okx-exchange/total)](https://github.com/kuuliaocom/okx-exchange/releases)
+[![GitHub Stars](https://img.shields.io/github/stars/kuuliaocom/okx-exchange?style=social)](https://github.com/kuuliaocom/okx-exchange/stargazers)
+
 OKX / 欧易风格数字资产交易所前端演示构建，包含 Vue 3.5 Web 生产包、Flutter Android APK、Flutter Web H5 生产包，以及交易所 Web、移动端和管理后台演示素材。
 
 Unofficial OKX-style cryptocurrency exchange frontend demo builds for Vue 3.5, Flutter Android and Flutter Web/H5, covering trading UI, market data, P2P, assets, strategy pages and an exchange admin dashboard.
+
+如果这些演示构建对你有帮助，欢迎 [Star 本仓库](https://github.com/kuuliaocom/okx-exchange) 或分享 [v1.0.0 Release](https://github.com/kuuliaocom/okx-exchange/releases/tag/v1.0.0)。
 
 > 本仓库仅发布编译产物与演示媒体，不包含 Vue、Flutter、后端或其他业务源码。本项目为非官方技术演示，与 OKX 官方无隶属或授权关系，请勿用于违法违规用途。
 
