@@ -1,6 +1,8 @@
-# OKX Exchange Demo Builds
+# OKX Exchange Demo Builds | Vue 3.5 + Flutter Android + H5
 
-OKX 风格数字资产交易平台演示构建，包含 Vue 3.5 Web 生产包、Flutter Android APK、Flutter H5 生产包，以及 Web、H5、移动端和管理后台演示素材。
+OKX / 欧易风格数字资产交易所前端演示构建，包含 Vue 3.5 Web 生产包、Flutter Android APK、Flutter Web H5 生产包，以及交易所 Web、移动端和管理后台演示素材。
+
+Unofficial OKX-style cryptocurrency exchange frontend demo builds for Vue 3.5, Flutter Android and Flutter Web/H5, covering trading UI, market data, P2P, assets, strategy pages and an exchange admin dashboard.
 
 > 本仓库仅发布编译产物与演示媒体，不包含 Vue、Flutter、后端或其他业务源码。本项目为非官方技术演示，与 OKX 官方无隶属或授权关系，请勿用于违法违规用途。
 
@@ -55,6 +57,17 @@ OKX 风格数字资产交易平台演示构建，包含 Vue 3.5 Web 生产包、
 - 管理后台：用户、币币、财务、合约、策略、邀请、活动和服务状态等可视化管理界面。
 
 演示构建用于界面和流程展示，实际可用功能取决于部署环境中的后端 API、行情 WebSocket、对象存储及其他服务配置。
+
+## GitHub 搜索关键词
+
+以下关键词用于描述本仓库已经发布的前端演示构建，不代表 OKX 官方授权，也不表示本仓库提供应用源码。
+
+- **简体中文**：欧易 OKX、OKEX、OKX 交易所演示、OKX UI 复刻演示、数字货币交易所前端、加密货币交易平台、交易所 APP、Vue3 交易所前端、Flutter 编译、Android APK、Flutter H5、交易所管理后台
+- **交易功能**：现货交易、合约交易、永续合约、期权交易、P2P 交易、C2C 交易、OTC、K 线、深度图、盘口、订单簿、行情 WebSocket、资产管理、充值提现、资金划转、策略交易
+- **English**: OKX exchange demo, OKEX UI clone demo, crypto exchange frontend, cryptocurrency trading app, Flutter crypto app, Vue 3 trading platform, Android APK, Flutter Web H5, crypto admin dashboard, spot trading, perpetual futures, options trading, P2P trading, candlestick chart, order book
+- **繁體中文**：歐易 OKX、OKEX 交易所演示、數字貨幣交易所前端、加密貨幣交易 APP、Flutter Android、Flutter H5、現貨交易、合約交易、永續合約、P2P 交易、K 線、深度圖、資產管理
+- **日本語**：OKX 取引所デモ、暗号資産取引所 UI、仮想通貨取引アプリ、Flutter 取引アプリ、現物取引、永久先物、オプション取引、P2P 取引、ローソク足チャート、オーダーブック
+- **한국어**: OKX 거래소 데모, 암호화폐 거래소 UI, 가상자산 거래 앱, Flutter 거래 앱, 현물 거래, 무기한 선물, 옵션 거래, P2P 거래, 캔들 차트, 오더북
 
 ## 构建信息
 
